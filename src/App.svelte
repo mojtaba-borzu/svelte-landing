@@ -4,7 +4,7 @@
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>Visit the my project by mojtaba.</p>
+	<p>Visit the project by mojtaba.</p>
 </main>
 
 <style>
